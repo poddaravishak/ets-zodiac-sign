@@ -3,9 +3,9 @@ description: >-
   Cross-platform Zodiac SDK — Western & Chinese Zodiac data,
   calculations, optional icons, and localization for Dart & Flutter.
 version: 0.1.0
-repository: https://github.com/your-org/ets-zodiac
-homepage: https://github.com/your-org/ets-zodiac/tree/main/packages/zodiac-dart
-issue_tracker: https://github.com/your-org/ets-zodiac/issues
+repository: https://github.com/poddaravishak/ets-zodiac-sign
+homepage: https://github.com/poddaravishak/ets-zodiac-sign/tree/main/packages/zodiac-dart
+issue_tracker: https://github.com/poddaravishak/ets-zodiac-sign/issues
 
 environment:
   sdk: ">=3.0.0 <4.0.0"
