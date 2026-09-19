@@ -17,7 +17,7 @@ void main() {
 
   print('\n--- Localization (Spanish) ---');
   final localizedWestern =
-      getWesternSign(3, 21, options: WesternOptions(locale: 'es'));
+      getWesternSign(3, 21, options: const WesternOptions(locale: 'es'));
   print('Sign (ES): ${localizedWestern.localizedName}');
 
   print('\n--- Icons ---');

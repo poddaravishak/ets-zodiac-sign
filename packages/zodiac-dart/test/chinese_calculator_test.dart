@@ -20,7 +20,7 @@ void main() {
 
       test('should include localized data if requested', () {
         final result =
-            getChineseZodiac(2024, options: ChineseOptions(locale: 'zh-CN'));
+            getChineseZodiac(2024, options: const ChineseOptions(locale: 'zh-CN'));
         expect(result.localizedName, equals('龙'));
       });
 

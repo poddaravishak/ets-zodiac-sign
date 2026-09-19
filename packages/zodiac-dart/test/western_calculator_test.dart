@@ -24,7 +24,7 @@ void main() {
 
     test('should return localized data', () {
       final result =
-          getWesternSign(3, 21, options: WesternOptions(locale: 'zh-CN'));
+          getWesternSign(3, 21, options: const WesternOptions(locale: 'zh-CN'));
       expect(result.locale, equals('zh-CN'));
       expect(result.localizedName, equals('白羊座'));
       expect(result.localizedKeywords, contains('自信'));
@@ -32,7 +32,7 @@ void main() {
 
     test('should fall back to English for unknown locale', () {
       final result =
-          getWesternSign(3, 21, options: WesternOptions(locale: 'xx-XX'));
+          getWesternSign(3, 21, options: const WesternOptions(locale: 'xx-XX'));
       expect(
           result.locale, equals('en')); // falls back in result.locale correctly
       expect(result.localizedName, equals('Aries'));

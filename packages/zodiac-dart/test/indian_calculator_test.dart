@@ -22,7 +22,7 @@ void main() {
 
     test('should return localized data', () {
       final result =
-          getIndianZodiac(4, 14, options: IndianOptions(locale: 'bn'));
+          getIndianZodiac(4, 14, options: const IndianOptions(locale: 'bn'));
       expect(result.locale, equals('bn'));
       expect(result.localizedName, equals('মেষ'));
     });
