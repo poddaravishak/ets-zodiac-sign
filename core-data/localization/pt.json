@@ -1,0 +1,45 @@
+{
+  "western.aries.name": "Áries", "western.taurus.name": "Touro", "western.gemini.name": "Gêmeos",
+  "western.cancer.name": "Câncer", "western.leo.name": "Leão", "western.virgo.name": "Virgem",
+  "western.libra.name": "Libra", "western.scorpio.name": "Escorpião", "western.sagittarius.name": "Sagitário",
+  "western.capricorn.name": "Capricórnio", "western.aquarius.name": "Aquário", "western.pisces.name": "Peixes",
+
+  "western.aries.description": "Áries é tradicionalmente associado à coragem, determinação e entusiasmo. Como primeiro signo do zodíaco, é frequentemente ligado à liderança, iniciativa e espírito pioneiro.",
+  "western.taurus.description": "Touro é tradicionalmente associado à confiabilidade, paciência e praticidade.",
+  "western.gemini.description": "Gêmeos é tradicionalmente associado à adaptabilidade, comunicação e curiosidade intelectual.",
+  "western.cancer.description": "Câncer é tradicionalmente associado à sensibilidade emocional profunda, intuição e fortes laços familiares.",
+  "western.leo.description": "Leão é tradicionalmente associado à criatividade, calor humano e autoconfiança.",
+  "western.virgo.description": "Virgem é tradicionalmente associado ao pensamento analítico, atenção aos detalhes e abordagem metódica da vida.",
+  "western.libra.description": "Libra é tradicionalmente associado ao equilíbrio, harmonia e forte senso de justiça.",
+  "western.scorpio.description": "Escorpião é tradicionalmente associado à intensidade, paixão e desenvoltura.",
+  "western.sagittarius.description": "Sagitário é tradicionalmente associado ao otimismo, liberdade e amor por viagens e filosofia.",
+  "western.capricorn.description": "Capricórnio é tradicionalmente associado à disciplina, responsabilidade e ambição.",
+  "western.aquarius.description": "Aquário é tradicionalmente associado ao pensamento progressista, independência e humanitarismo.",
+  "western.pisces.description": "Peixes é tradicionalmente associado à compaixão, talento artístico e intuição profunda.",
+
+  "western.element.fire": "Fogo", "western.element.earth": "Terra",
+  "western.element.air": "Ar", "western.element.water": "Água",
+  "western.modality.cardinal": "Cardinal", "western.modality.fixed": "Fixo", "western.modality.mutable": "Mutável",
+
+  "western.planet.sun": "Sol", "western.planet.moon": "Lua", "western.planet.mercury": "Mercúrio",
+  "western.planet.venus": "Vênus", "western.planet.mars": "Marte", "western.planet.jupiter": "Júpiter",
+  "western.planet.saturn": "Saturno", "western.planet.uranus": "Urano", "western.planet.neptune": "Netuno",
+  "western.planet.pluto": "Plutão",
+
+  "chinese.rat.name": "Rato", "chinese.ox.name": "Boi", "chinese.tiger.name": "Tigre",
+  "chinese.rabbit.name": "Coelho", "chinese.dragon.name": "Dragão", "chinese.snake.name": "Serpente",
+  "chinese.horse.name": "Cavalo", "chinese.goat.name": "Cabra", "chinese.monkey.name": "Macaco",
+  "chinese.rooster.name": "Galo", "chinese.dog.name": "Cão", "chinese.pig.name": "Porco",
+
+  "chinese.element.wood": "Madeira", "chinese.element.fire": "Fogo", "chinese.element.earth": "Terra",
+  "chinese.element.metal": "Metal", "chinese.element.water": "Água",
+  "chinese.yinYang.yin": "Yin", "chinese.yinYang.yang": "Yang",
+
+  "error.invalidMonth": "O mês deve estar entre 1 e 12",
+  "error.invalidDay": "O dia não é válido para o mês fornecido",
+  "error.invalidYear": "O ano está fora do intervalo suportado",
+  "error.invalidDate": "Data fornecida inválida",
+  "error.invalidLocale": "Localidade não suportada",
+  "error.signNotFound": "Signo do zodíaco não encontrado",
+  "error.animalNotFound": "Animal do zodíaco chinês não encontrado"
+}

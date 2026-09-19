@@ -1,0 +1,45 @@
+{
+  "western.aries.name": "Widder", "western.taurus.name": "Stier", "western.gemini.name": "Zwillinge",
+  "western.cancer.name": "Krebs", "western.leo.name": "Löwe", "western.virgo.name": "Jungfrau",
+  "western.libra.name": "Waage", "western.scorpio.name": "Skorpion", "western.sagittarius.name": "Schütze",
+  "western.capricorn.name": "Steinbock", "western.aquarius.name": "Wassermann", "western.pisces.name": "Fische",
+
+  "western.aries.description": "Widder wird traditionell mit Mut, Entschlossenheit und Begeisterung in Verbindung gebracht. Als erstes Zeichen des Tierkreises steht es oft für Führung, Initiative und Pioniergeist.",
+  "western.taurus.description": "Stier wird traditionell mit Zuverlässigkeit, Geduld und Praktikabilität in Verbindung gebracht.",
+  "western.gemini.description": "Zwillinge werden traditionell mit Anpassungsfähigkeit, Kommunikation und intellektueller Neugier in Verbindung gebracht.",
+  "western.cancer.description": "Krebs wird traditionell mit tiefer emotionaler Sensibilität, Intuition und starken familiären Bindungen in Verbindung gebracht.",
+  "western.leo.description": "Löwe wird traditionell mit Kreativität, Wärme und Selbstvertrauen in Verbindung gebracht.",
+  "western.virgo.description": "Jungfrau wird traditionell mit analytischem Denken, Liebe zum Detail und einer methodischen Lebensweise in Verbindung gebracht.",
+  "western.libra.description": "Waage wird traditionell mit Gleichgewicht, Harmonie und einem starken Gerechtigkeitssinn in Verbindung gebracht.",
+  "western.scorpio.description": "Skorpion wird traditionell mit Intensität, Leidenschaft und Einfallsreichtum in Verbindung gebracht.",
+  "western.sagittarius.description": "Schütze wird traditionell mit Optimismus, Freiheit und der Liebe zum Reisen und zur Philosophie in Verbindung gebracht.",
+  "western.capricorn.description": "Steinbock wird traditionell mit Disziplin, Verantwortung und Ehrgeiz in Verbindung gebracht.",
+  "western.aquarius.description": "Wassermann wird traditionell mit fortschrittlichem Denken, Unabhängigkeit und Humanismus in Verbindung gebracht.",
+  "western.pisces.description": "Fische werden traditionell mit Mitgefühl, künstlerischem Talent und tiefer Intuition in Verbindung gebracht.",
+
+  "western.element.fire": "Feuer", "western.element.earth": "Erde",
+  "western.element.air": "Luft", "western.element.water": "Wasser",
+  "western.modality.cardinal": "Kardinal", "western.modality.fixed": "Fix", "western.modality.mutable": "Veränderlich",
+
+  "western.planet.sun": "Sonne", "western.planet.moon": "Mond", "western.planet.mercury": "Merkur",
+  "western.planet.venus": "Venus", "western.planet.mars": "Mars", "western.planet.jupiter": "Jupiter",
+  "western.planet.saturn": "Saturn", "western.planet.uranus": "Uranus", "western.planet.neptune": "Neptun",
+  "western.planet.pluto": "Pluto",
+
+  "chinese.rat.name": "Ratte", "chinese.ox.name": "Ochse", "chinese.tiger.name": "Tiger",
+  "chinese.rabbit.name": "Hase", "chinese.dragon.name": "Drache", "chinese.snake.name": "Schlange",
+  "chinese.horse.name": "Pferd", "chinese.goat.name": "Ziege", "chinese.monkey.name": "Affe",
+  "chinese.rooster.name": "Hahn", "chinese.dog.name": "Hund", "chinese.pig.name": "Schwein",
+
+  "chinese.element.wood": "Holz", "chinese.element.fire": "Feuer", "chinese.element.earth": "Erde",
+  "chinese.element.metal": "Metall", "chinese.element.water": "Wasser",
+  "chinese.yinYang.yin": "Yin", "chinese.yinYang.yang": "Yang",
+
+  "error.invalidMonth": "Der Monat muss zwischen 1 und 12 liegen",
+  "error.invalidDay": "Der Tag ist für den angegebenen Monat ungültig",
+  "error.invalidYear": "Das Jahr liegt außerhalb des unterstützten Bereichs",
+  "error.invalidDate": "Ungültiges Datum angegeben",
+  "error.invalidLocale": "Nicht unterstütztes Gebietsschema",
+  "error.signNotFound": "Sternzeichen nicht gefunden",
+  "error.animalNotFound": "Chinesisches Tierkreiszeichen nicht gefunden"
+}

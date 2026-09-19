@@ -1,0 +1,45 @@
+{
+  "western.aries.name": "おひつじ座", "western.taurus.name": "おうし座", "western.gemini.name": "ふたご座",
+  "western.cancer.name": "かに座", "western.leo.name": "しし座", "western.virgo.name": "おとめ座",
+  "western.libra.name": "てんびん座", "western.scorpio.name": "さそり座", "western.sagittarius.name": "いて座",
+  "western.capricorn.name": "やぎ座", "western.aquarius.name": "みずがめ座", "western.pisces.name": "うお座",
+
+  "western.aries.description": "おひつじ座は伝統的に勇気、決断力、熱意と関連付けられています。黄道十二宮の最初の星座として、リーダーシップ、主導性、先駆者の精神と結びつけられることが多いです。",
+  "western.taurus.description": "おうし座は伝統的に信頼性、忍耐力、実用性と関連付けられています。",
+  "western.gemini.description": "ふたご座は伝統的に適応力、コミュニケーション能力、知的好奇心と関連付けられています。",
+  "western.cancer.description": "かに座は伝統的に深い感情的敏感さ、直感、強い家族の絆と関連付けられています。",
+  "western.leo.description": "しし座は伝統的に創造性、温かさ、自信と関連付けられています。",
+  "western.virgo.description": "おとめ座は伝統的に分析的思考、細部への注意、几帳面な生活態度と関連付けられています。",
+  "western.libra.description": "てんびん座は伝統的にバランス、調和、強い正義感と関連付けられています。",
+  "western.scorpio.description": "さそり座は伝統的に激しさ、情熱、機知に富むことと関連付けられています。",
+  "western.sagittarius.description": "いて座は伝統的に楽観主義、自由、旅行と哲学への愛と関連付けられています。",
+  "western.capricorn.description": "やぎ座は伝統的に規律、責任感、野心と関連付けられています。",
+  "western.aquarius.description": "みずがめ座は伝統的に進歩的な思考、独立性、人道主義と関連付けられています。",
+  "western.pisces.description": "うお座は伝統的に思いやり、芸術的才能、深い直感と関連付けられています。",
+
+  "western.element.fire": "火", "western.element.earth": "地",
+  "western.element.air": "風", "western.element.water": "水",
+  "western.modality.cardinal": "活動宮", "western.modality.fixed": "不動宮", "western.modality.mutable": "柔軟宮",
+
+  "western.planet.sun": "太陽", "western.planet.moon": "月", "western.planet.mercury": "水星",
+  "western.planet.venus": "金星", "western.planet.mars": "火星", "western.planet.jupiter": "木星",
+  "western.planet.saturn": "土星", "western.planet.uranus": "天王星", "western.planet.neptune": "海王星",
+  "western.planet.pluto": "冥王星",
+
+  "chinese.rat.name": "子（ねずみ）", "chinese.ox.name": "丑（うし）", "chinese.tiger.name": "寅（とら）",
+  "chinese.rabbit.name": "卯（うさぎ）", "chinese.dragon.name": "辰（たつ）", "chinese.snake.name": "巳（へび）",
+  "chinese.horse.name": "午（うま）", "chinese.goat.name": "未（ひつじ）", "chinese.monkey.name": "申（さる）",
+  "chinese.rooster.name": "酉（とり）", "chinese.dog.name": "戌（いぬ）", "chinese.pig.name": "亥（いのしし）",
+
+  "chinese.element.wood": "木", "chinese.element.fire": "火", "chinese.element.earth": "土",
+  "chinese.element.metal": "金", "chinese.element.water": "水",
+  "chinese.yinYang.yin": "陰", "chinese.yinYang.yang": "陽",
+
+  "error.invalidMonth": "月は1から12の間でなければなりません",
+  "error.invalidDay": "指定された月に対して日が無効です",
+  "error.invalidYear": "年がサポート範囲外です",
+  "error.invalidDate": "無効な日付が指定されました",
+  "error.invalidLocale": "サポートされていないロケールです",
+  "error.signNotFound": "星座が見つかりません",
+  "error.animalNotFound": "干支の動物が見つかりません"
+}

@@ -1,0 +1,43 @@
+# zodiac-js CI — Lint, Typecheck, Test, Build
+name: CI - zodiac-js
+
+on:
+  push:
+    paths:
+      - 'packages/zodiac-js/**'
+      - 'core-data/**'
+  pull_request:
+    paths:
+      - 'packages/zodiac-js/**'
+      - 'core-data/**'
+
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node-version: [18, 20, 22]
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ matrix.node-version }}
+
+      - name: Install dependencies
+        working-directory: packages/zodiac-js
+        run: npm ci
+
+      - name: Type check
+        working-directory: packages/zodiac-js
+        run: npm run typecheck
+
+      - name: Run tests
+        working-directory: packages/zodiac-js
+        run: npm test
+
+      - name: Build
+        working-directory: packages/zodiac-js
+        run: npm run build

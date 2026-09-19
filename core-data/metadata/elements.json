@@ -1,0 +1,30 @@
+[
+  {
+    "id": "fire",
+    "name": "Fire",
+    "symbol": "🔥",
+    "description": "Fire signs are traditionally associated with passion, energy, and enthusiasm.",
+    "members": ["aries", "leo", "sagittarius"]
+  },
+  {
+    "id": "earth",
+    "name": "Earth",
+    "symbol": "🌍",
+    "description": "Earth signs are traditionally associated with practicality, stability, and groundedness.",
+    "members": ["taurus", "virgo", "capricorn"]
+  },
+  {
+    "id": "air",
+    "name": "Air",
+    "symbol": "💨",
+    "description": "Air signs are traditionally associated with intellect, communication, and social connection.",
+    "members": ["gemini", "libra", "aquarius"]
+  },
+  {
+    "id": "water",
+    "name": "Water",
+    "symbol": "💧",
+    "description": "Water signs are traditionally associated with emotion, intuition, and sensitivity.",
+    "members": ["cancer", "scorpio", "pisces"]
+  }
+]

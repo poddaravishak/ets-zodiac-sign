@@ -1,0 +1,40 @@
+# zodiac-dart CI — Analyze, Test
+name: CI - zodiac-dart
+
+on:
+  push:
+    paths:
+      - 'packages/zodiac-dart/**'
+      - 'core-data/**'
+  pull_request:
+    paths:
+      - 'packages/zodiac-dart/**'
+      - 'core-data/**'
+
+jobs:
+  analyze-and-test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Dart
+        uses: dart-lang/setup-dart@v1
+        with:
+          sdk: stable
+
+      - name: Install dependencies
+        working-directory: packages/zodiac-dart
+        run: dart pub get
+
+      - name: Analyze
+        working-directory: packages/zodiac-dart
+        run: dart analyze --fatal-infos
+
+      - name: Run tests
+        working-directory: packages/zodiac-dart
+        run: dart test
+
+      - name: Dry-run publish
+        working-directory: packages/zodiac-dart
+        run: dart pub publish --dry-run

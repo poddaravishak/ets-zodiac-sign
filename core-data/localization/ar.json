@@ -1,0 +1,46 @@
+{
+  "western.aries.name": "الحمل", "western.taurus.name": "الثور", "western.gemini.name": "الجوزاء",
+  "western.cancer.name": "السرطان", "western.leo.name": "الأسد", "western.virgo.name": "العذراء",
+  "western.libra.name": "الميزان", "western.scorpio.name": "العقرب", "western.sagittarius.name": "القوس",
+  "western.capricorn.name": "الجدي", "western.aquarius.name": "الدلو", "western.pisces.name": "الحوت",
+
+  "western.aries.description": "يرتبط برج الحمل تقليدياً بالشجاعة والتصميم والحماس. باعتباره أول أبراج دائرة البروج، غالباً ما يُربط بالقيادة والمبادرة وروح الريادة.",
+  "western.taurus.description": "يرتبط برج الثور تقليدياً بالموثوقية والصبر والعملية.",
+  "western.gemini.description": "يرتبط برج الجوزاء تقليدياً بالقدرة على التكيف والتواصل والفضول الفكري.",
+  "western.cancer.description": "يرتبط برج السرطان تقليدياً بالحساسية العاطفية العميقة والحدس والروابط الأسرية القوية.",
+  "western.leo.description": "يرتبط برج الأسد تقليدياً بالإبداع والدفء والثقة بالنفس.",
+  "western.virgo.description": "يرتبط برج العذراء تقليدياً بالتفكير التحليلي والاهتمام بالتفاصيل والنهج المنهجي في الحياة.",
+  "western.libra.description": "يرتبط برج الميزان تقليدياً بالتوازن والانسجام والإحساس القوي بالعدالة.",
+  "western.scorpio.description": "يرتبط برج العقرب تقليدياً بالحدة والعاطفة وسعة الحيلة.",
+  "western.sagittarius.description": "يرتبط برج القوس تقليدياً بالتفاؤل والحرية وحب السفر والفلسفة.",
+  "western.capricorn.description": "يرتبط برج الجدي تقليدياً بالانضباط والمسؤولية والطموح.",
+  "western.aquarius.description": "يرتبط برج الدلو تقليدياً بالتفكير التقدمي والاستقلالية والإنسانية.",
+  "western.pisces.description": "يرتبط برج الحوت تقليدياً بالرحمة والموهبة الفنية والحدس العميق.",
+
+  "western.element.fire": "النار", "western.element.earth": "الأرض",
+  "western.element.air": "الهواء", "western.element.water": "الماء",
+
+  "western.modality.cardinal": "أساسي", "western.modality.fixed": "ثابت", "western.modality.mutable": "متغير",
+
+  "western.planet.sun": "الشمس", "western.planet.moon": "القمر", "western.planet.mercury": "عطارد",
+  "western.planet.venus": "الزهرة", "western.planet.mars": "المريخ", "western.planet.jupiter": "المشتري",
+  "western.planet.saturn": "زحل", "western.planet.uranus": "أورانوس", "western.planet.neptune": "نبتون",
+  "western.planet.pluto": "بلوتو",
+
+  "chinese.rat.name": "الفأر", "chinese.ox.name": "الثور", "chinese.tiger.name": "النمر",
+  "chinese.rabbit.name": "الأرنب", "chinese.dragon.name": "التنين", "chinese.snake.name": "الأفعى",
+  "chinese.horse.name": "الحصان", "chinese.goat.name": "الماعز", "chinese.monkey.name": "القرد",
+  "chinese.rooster.name": "الديك", "chinese.dog.name": "الكلب", "chinese.pig.name": "الخنزير",
+
+  "chinese.element.wood": "الخشب", "chinese.element.fire": "النار", "chinese.element.earth": "الأرض",
+  "chinese.element.metal": "المعدن", "chinese.element.water": "الماء",
+  "chinese.yinYang.yin": "يين", "chinese.yinYang.yang": "يانغ",
+
+  "error.invalidMonth": "يجب أن يكون الشهر بين 1 و 12",
+  "error.invalidDay": "اليوم غير صالح للشهر المحدد",
+  "error.invalidYear": "السنة خارج النطاق المدعوم",
+  "error.invalidDate": "التاريخ المقدم غير صالح",
+  "error.invalidLocale": "الإعدادات المحلية غير مدعومة",
+  "error.signNotFound": "لم يتم العثور على البرج",
+  "error.animalNotFound": "لم يتم العثور على حيوان الأبراج الصينية"
+}

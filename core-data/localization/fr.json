@@ -1,0 +1,46 @@
+{
+  "western.aries.name": "Bélier", "western.taurus.name": "Taureau", "western.gemini.name": "Gémeaux",
+  "western.cancer.name": "Cancer", "western.leo.name": "Lion", "western.virgo.name": "Vierge",
+  "western.libra.name": "Balance", "western.scorpio.name": "Scorpion", "western.sagittarius.name": "Sagittaire",
+  "western.capricorn.name": "Capricorne", "western.aquarius.name": "Verseau", "western.pisces.name": "Poissons",
+
+  "western.aries.description": "Le Bélier est traditionnellement associé au courage, à la détermination et à l'enthousiasme. En tant que premier signe du zodiaque, il est souvent lié au leadership, à l'initiative et à un esprit pionnier.",
+  "western.taurus.description": "Le Taureau est traditionnellement associé à la fiabilité, la patience et le sens pratique.",
+  "western.gemini.description": "Les Gémeaux sont traditionnellement associés à l'adaptabilité, la communication et la curiosité intellectuelle.",
+  "western.cancer.description": "Le Cancer est traditionnellement associé à une profonde sensibilité émotionnelle, l'intuition et de forts liens familiaux.",
+  "western.leo.description": "Le Lion est traditionnellement associé à la créativité, la chaleur et la confiance en soi.",
+  "western.virgo.description": "La Vierge est traditionnellement associée à la pensée analytique, l'attention aux détails et une approche méthodique de la vie.",
+  "western.libra.description": "La Balance est traditionnellement associée à l'équilibre, l'harmonie et un fort sens de la justice.",
+  "western.scorpio.description": "Le Scorpion est traditionnellement associé à l'intensité, la passion et l'ingéniosité.",
+  "western.sagittarius.description": "Le Sagittaire est traditionnellement associé à l'optimisme, la liberté et l'amour du voyage et de la philosophie.",
+  "western.capricorn.description": "Le Capricorne est traditionnellement associé à la discipline, la responsabilité et l'ambition.",
+  "western.aquarius.description": "Le Verseau est traditionnellement associé à la pensée progressiste, l'indépendance et l'humanitarisme.",
+  "western.pisces.description": "Les Poissons sont traditionnellement associés à la compassion, au talent artistique et à une intuition profonde.",
+
+  "western.element.fire": "Feu", "western.element.earth": "Terre",
+  "western.element.air": "Air", "western.element.water": "Eau",
+
+  "western.modality.cardinal": "Cardinal", "western.modality.fixed": "Fixe", "western.modality.mutable": "Mutable",
+
+  "western.planet.sun": "Soleil", "western.planet.moon": "Lune", "western.planet.mercury": "Mercure",
+  "western.planet.venus": "Vénus", "western.planet.mars": "Mars", "western.planet.jupiter": "Jupiter",
+  "western.planet.saturn": "Saturne", "western.planet.uranus": "Uranus", "western.planet.neptune": "Neptune",
+  "western.planet.pluto": "Pluton",
+
+  "chinese.rat.name": "Rat", "chinese.ox.name": "Bœuf", "chinese.tiger.name": "Tigre",
+  "chinese.rabbit.name": "Lapin", "chinese.dragon.name": "Dragon", "chinese.snake.name": "Serpent",
+  "chinese.horse.name": "Cheval", "chinese.goat.name": "Chèvre", "chinese.monkey.name": "Singe",
+  "chinese.rooster.name": "Coq", "chinese.dog.name": "Chien", "chinese.pig.name": "Cochon",
+
+  "chinese.element.wood": "Bois", "chinese.element.fire": "Feu", "chinese.element.earth": "Terre",
+  "chinese.element.metal": "Métal", "chinese.element.water": "Eau",
+  "chinese.yinYang.yin": "Yin", "chinese.yinYang.yang": "Yang",
+
+  "error.invalidMonth": "Le mois doit être compris entre 1 et 12",
+  "error.invalidDay": "Le jour n'est pas valide pour le mois donné",
+  "error.invalidYear": "L'année est hors de la plage prise en charge",
+  "error.invalidDate": "Date fournie non valide",
+  "error.invalidLocale": "Paramètres régionaux non pris en charge",
+  "error.signNotFound": "Signe du zodiaque introuvable",
+  "error.animalNotFound": "Animal du zodiaque chinois introuvable"
+}

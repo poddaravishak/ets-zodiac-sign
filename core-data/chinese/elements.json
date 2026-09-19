@@ -1,0 +1,7 @@
+[
+  { "id": "wood", "name": "Wood", "symbol": "🪵", "yinYang": ["yin", "yang"], "order": 1 },
+  { "id": "fire", "name": "Fire", "symbol": "🔥", "yinYang": ["yin", "yang"], "order": 2 },
+  { "id": "earth", "name": "Earth", "symbol": "🌍", "yinYang": ["yin", "yang"], "order": 3 },
+  { "id": "metal", "name": "Metal", "symbol": "🔩", "yinYang": ["yin", "yang"], "order": 4 },
+  { "id": "water", "name": "Water", "symbol": "💧", "yinYang": ["yin", "yang"], "order": 5 }
+]

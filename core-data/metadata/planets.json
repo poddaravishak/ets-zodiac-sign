@@ -1,0 +1,12 @@
+[
+  { "id": "sun", "name": "Sun", "symbol": "☉", "type": "luminary" },
+  { "id": "moon", "name": "Moon", "symbol": "☽", "type": "luminary" },
+  { "id": "mercury", "name": "Mercury", "symbol": "☿", "type": "planet" },
+  { "id": "venus", "name": "Venus", "symbol": "♀", "type": "planet" },
+  { "id": "mars", "name": "Mars", "symbol": "♂", "type": "planet" },
+  { "id": "jupiter", "name": "Jupiter", "symbol": "♃", "type": "planet" },
+  { "id": "saturn", "name": "Saturn", "symbol": "♄", "type": "planet" },
+  { "id": "uranus", "name": "Uranus", "symbol": "♅", "type": "modern" },
+  { "id": "neptune", "name": "Neptune", "symbol": "♆", "type": "modern" },
+  { "id": "pluto", "name": "Pluto", "symbol": "♇", "type": "modern" }
+]

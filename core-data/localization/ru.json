@@ -1,0 +1,45 @@
+{
+  "western.aries.name": "Овен", "western.taurus.name": "Телец", "western.gemini.name": "Близнецы",
+  "western.cancer.name": "Рак", "western.leo.name": "Лев", "western.virgo.name": "Дева",
+  "western.libra.name": "Весы", "western.scorpio.name": "Скорпион", "western.sagittarius.name": "Стрелец",
+  "western.capricorn.name": "Козерог", "western.aquarius.name": "Водолей", "western.pisces.name": "Рыбы",
+
+  "western.aries.description": "Овен традиционно ассоциируется с мужеством, решительностью и энтузиазмом. Как первый знак зодиака, он часто связан с лидерством, инициативой и новаторским духом.",
+  "western.taurus.description": "Телец традиционно ассоциируется с надёжностью, терпением и практичностью.",
+  "western.gemini.description": "Близнецы традиционно ассоциируются с адаптивностью, общительностью и интеллектуальной любознательностью.",
+  "western.cancer.description": "Рак традиционно ассоциируется с глубокой эмоциональной чувствительностью, интуицией и крепкими семейными узами.",
+  "western.leo.description": "Лев традиционно ассоциируется с творчеством, теплотой и уверенностью в себе.",
+  "western.virgo.description": "Дева традиционно ассоциируется с аналитическим мышлением, вниманием к деталям и методичным подходом к жизни.",
+  "western.libra.description": "Весы традиционно ассоциируются с балансом, гармонией и сильным чувством справедливости.",
+  "western.scorpio.description": "Скорпион традиционно ассоциируется с интенсивностью, страстью и находчивостью.",
+  "western.sagittarius.description": "Стрелец традиционно ассоциируется с оптимизмом, свободой и любовью к путешествиям и философии.",
+  "western.capricorn.description": "Козерог традиционно ассоциируется с дисциплиной, ответственностью и амбициозностью.",
+  "western.aquarius.description": "Водолей традиционно ассоциируется с прогрессивным мышлением, независимостью и гуманизмом.",
+  "western.pisces.description": "Рыбы традиционно ассоциируются с состраданием, художественным талантом и глубокой интуицией.",
+
+  "western.element.fire": "Огонь", "western.element.earth": "Земля",
+  "western.element.air": "Воздух", "western.element.water": "Вода",
+  "western.modality.cardinal": "Кардинальный", "western.modality.fixed": "Фиксированный", "western.modality.mutable": "Мутабельный",
+
+  "western.planet.sun": "Солнце", "western.planet.moon": "Луна", "western.planet.mercury": "Меркурий",
+  "western.planet.venus": "Венера", "western.planet.mars": "Марс", "western.planet.jupiter": "Юпитер",
+  "western.planet.saturn": "Сатурн", "western.planet.uranus": "Уран", "western.planet.neptune": "Нептун",
+  "western.planet.pluto": "Плутон",
+
+  "chinese.rat.name": "Крыса", "chinese.ox.name": "Бык", "chinese.tiger.name": "Тигр",
+  "chinese.rabbit.name": "Кролик", "chinese.dragon.name": "Дракон", "chinese.snake.name": "Змея",
+  "chinese.horse.name": "Лошадь", "chinese.goat.name": "Коза", "chinese.monkey.name": "Обезьяна",
+  "chinese.rooster.name": "Петух", "chinese.dog.name": "Собака", "chinese.pig.name": "Свинья",
+
+  "chinese.element.wood": "Дерево", "chinese.element.fire": "Огонь", "chinese.element.earth": "Земля",
+  "chinese.element.metal": "Металл", "chinese.element.water": "Вода",
+  "chinese.yinYang.yin": "Инь", "chinese.yinYang.yang": "Ян",
+
+  "error.invalidMonth": "Месяц должен быть от 1 до 12",
+  "error.invalidDay": "День недействителен для указанного месяца",
+  "error.invalidYear": "Год выходит за пределы поддерживаемого диапазона",
+  "error.invalidDate": "Указана недействительная дата",
+  "error.invalidLocale": "Неподдерживаемая локаль",
+  "error.signNotFound": "Знак зодиака не найден",
+  "error.animalNotFound": "Животное китайского зодиака не найдено"
+}

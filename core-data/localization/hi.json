@@ -1,0 +1,46 @@
+{
+  "western.aries.name": "मेष", "western.taurus.name": "वृषभ", "western.gemini.name": "मिथुन",
+  "western.cancer.name": "कर्क", "western.leo.name": "सिंह", "western.virgo.name": "कन्या",
+  "western.libra.name": "तुला", "western.scorpio.name": "वृश्चिक", "western.sagittarius.name": "धनु",
+  "western.capricorn.name": "मकर", "western.aquarius.name": "कुंभ", "western.pisces.name": "मीन",
+
+  "western.aries.description": "मेष राशि पारंपरिक रूप से साहस, दृढ़ संकल्प और उत्साह से जुड़ी है। राशि चक्र की पहली राशि के रूप में, इसे अक्सर नेतृत्व, पहल और अग्रणी भावना से जोड़ा जाता है।",
+  "western.taurus.description": "वृषभ राशि पारंपरिक रूप से विश्वसनीयता, धैर्य और व्यावहारिकता से जुड़ी है।",
+  "western.gemini.description": "मिथुन राशि पारंपरिक रूप से अनुकूलनशीलता, संचार और बौद्धिक जिज्ञासा से जुड़ी है।",
+  "western.cancer.description": "कर्क राशि पारंपरिक रूप से गहरी भावनात्मक संवेदनशीलता, अंतर्ज्ञान और मजबूत पारिवारिक बंधनों से जुड़ी है।",
+  "western.leo.description": "सिंह राशि पारंपरिक रूप से रचनात्मकता, गर्मजोशी और आत्मविश्वास से जुड़ी है।",
+  "western.virgo.description": "कन्या राशि पारंपरिक रूप से विश्लेषणात्मक सोच, विस्तार पर ध्यान और व्यवस्थित दृष्टिकोण से जुड़ी है।",
+  "western.libra.description": "तुला राशि पारंपरिक रूप से संतुलन, सामंजस्य और न्याय की प्रबल भावना से जुड़ी है।",
+  "western.scorpio.description": "वृश्चिक राशि पारंपरिक रूप से तीव्रता, जुनून और संसाधनशीलता से जुड़ी है।",
+  "western.sagittarius.description": "धनु राशि पारंपरिक रूप से आशावाद, स्वतंत्रता और यात्रा व दर्शन के प्रेम से जुड़ी है।",
+  "western.capricorn.description": "मकर राशि पारंपरिक रूप से अनुशासन, जिम्मेदारी और महत्वाकांक्षा से जुड़ी है।",
+  "western.aquarius.description": "कुंभ राशि पारंपरिक रूप से प्रगतिशील सोच, स्वतंत्रता और मानवतावाद से जुड़ी है।",
+  "western.pisces.description": "मीन राशि पारंपरिक रूप से करुणा, कलात्मक प्रतिभा और गहन अंतर्ज्ञान से जुड़ी है।",
+
+  "western.element.fire": "अग्नि", "western.element.earth": "पृथ्वी",
+  "western.element.air": "वायु", "western.element.water": "जल",
+
+  "western.modality.cardinal": "कार्डिनल", "western.modality.fixed": "स्थिर", "western.modality.mutable": "परिवर्तनशील",
+
+  "western.planet.sun": "सूर्य", "western.planet.moon": "चंद्रमा", "western.planet.mercury": "बुध",
+  "western.planet.venus": "शुक्र", "western.planet.mars": "मंगल", "western.planet.jupiter": "बृहस्पति",
+  "western.planet.saturn": "शनि", "western.planet.uranus": "यूरेनस", "western.planet.neptune": "नेप्च्यून",
+  "western.planet.pluto": "प्लूटो",
+
+  "chinese.rat.name": "चूहा", "chinese.ox.name": "बैल", "chinese.tiger.name": "बाघ",
+  "chinese.rabbit.name": "खरगोश", "chinese.dragon.name": "ड्रैगन", "chinese.snake.name": "सांप",
+  "chinese.horse.name": "घोड़ा", "chinese.goat.name": "बकरी", "chinese.monkey.name": "बंदर",
+  "chinese.rooster.name": "मुर्गा", "chinese.dog.name": "कुत्ता", "chinese.pig.name": "सुअर",
+
+  "chinese.element.wood": "लकड़ी", "chinese.element.fire": "अग्नि", "chinese.element.earth": "पृथ्वी",
+  "chinese.element.metal": "धातु", "chinese.element.water": "जल",
+  "chinese.yinYang.yin": "यिन", "chinese.yinYang.yang": "यांग",
+
+  "error.invalidMonth": "महीना 1 से 12 के बीच होना चाहिए",
+  "error.invalidDay": "दिन दिए गए महीने के लिए मान्य होना चाहिए",
+  "error.invalidYear": "वर्ष समर्थित सीमा से बाहर है",
+  "error.invalidDate": "अमान्य तिथि प्रदान की गई",
+  "error.invalidLocale": "असमर्थित स्थान",
+  "error.signNotFound": "राशि नहीं मिली",
+  "error.animalNotFound": "चीनी राशि का पशु नहीं मिला"
+}

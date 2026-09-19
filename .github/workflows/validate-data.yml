@@ -1,0 +1,25 @@
+# Core Data Validation
+name: Validate Core Data
+
+on:
+  push:
+    paths:
+      - 'core-data/**'
+  pull_request:
+    paths:
+      - 'core-data/**'
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Validate core data
+        run: npx tsx scripts/validation/validate-core-data.ts

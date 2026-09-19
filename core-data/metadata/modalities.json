@@ -1,0 +1,20 @@
+[
+  {
+    "id": "cardinal",
+    "name": "Cardinal",
+    "description": "Cardinal signs are traditionally associated with initiative, leadership, and the start of new seasons.",
+    "members": ["aries", "cancer", "libra", "capricorn"]
+  },
+  {
+    "id": "fixed",
+    "name": "Fixed",
+    "description": "Fixed signs are traditionally associated with stability, determination, and perseverance.",
+    "members": ["taurus", "leo", "scorpio", "aquarius"]
+  },
+  {
+    "id": "mutable",
+    "name": "Mutable",
+    "description": "Mutable signs are traditionally associated with adaptability, flexibility, and change.",
+    "members": ["gemini", "virgo", "sagittarius", "pisces"]
+  }
+]
