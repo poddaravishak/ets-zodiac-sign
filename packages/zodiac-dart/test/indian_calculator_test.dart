@@ -1,5 +1,5 @@
 import 'package:test/test.dart';
-import 'package:ets_zodiac/zodiac.dart';
+import 'package:ets_zodiac/ets_zodiac.dart';
 
 void main() {
   group('Indian Calculator', () {
